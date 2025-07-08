@@ -79,7 +79,7 @@ class LoadingScreen:
                                   fg='#aaaaaa', bg='#1a1a1a')
         self.status_text.pack(pady=10)
         
-        copyright_label = tk.Label(main_frame, text="© 2024 Hexsa Technologies", 
+        copyright_label = tk.Label(main_frame, text="© 2024 NetrixDev", 
                                  font=("Arial", 8), 
                                  fg='#666666', bg='#1a1a1a')
         copyright_label.pack(side='bottom', pady=10)
@@ -155,8 +155,8 @@ class AutoClickerApp:
         header_frame.grid(row=0, column=0, padx=20, pady=20, sticky="ew")
         header_frame.grid_columnconfigure(0, weight=1)
         
-        title_label = ctk.CTkLabel(header_frame, text="💎 NETRIX VEXA PRO 💎", 
-                                  font=("Arial Black", 32, "bold"), 
+        title_label = ctk.CTkLabel(header_frame, text="💎 NETRIX VEXTA PRO 💎", 
+                                  font=("Arial Black", 31, "bold"), 
                                   text_color="#00aaff")
         title_label.grid(row=0, column=0, pady=(15, 5))
         
