@@ -1,6 +1,6 @@
-# 🎯 Netrix VEXA Pro v5
+# 🎯 Netrix Vexta Pro v5
 
-Netrix VEXA Pro v5 is a high-performance and beautifully designed auto-clicker application for Windows built using Python and `customtkinter`.
+Netrix Vexta Pro v5 is a high-performance and beautifully designed auto-clicker application for Windows built using Python and `customtkinter`.
 
 ## ✨ Features
 - 🔥 Dual click modes (Left / Right)
