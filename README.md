@@ -16,4 +16,9 @@ Netrix VEXA Pro v5 is a high-performance and beautifully designed auto-clicker a
 ```bash
 git clone https://github.com/NetrixDev/netrix-vexa-pro-v5.git
 cd netrix-vexa-pro-v5
-Copy the natrix_icon.ico file and paste it to your exe file location.
+pip install pyinstaller
+pyinstaller --noconfirm --onefile --windowed --icon=netrix_icon.ico Vexsa.py
+```
+🛠 Output Path:
+Your .exe file will be located in the dist/ folder after building.
+And Copy the natrix_icon.ico file and paste it to your exe file location.
