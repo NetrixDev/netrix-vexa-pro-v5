@@ -18,6 +18,7 @@ git clone https://github.com/NetrixDev/netrix-vexta-pro-v5.git
 cd netrix-vexta-pro-v5
 pip install pyinstaller
 pyinstaller --noconfirm --onefile --windowed --icon=netrix_icon.ico Vexta.py
+copy netrix_icon.ico dist\
 ```
 🛠 Output Path:
 Your .exe file will be located in the dist/ folder after building.
