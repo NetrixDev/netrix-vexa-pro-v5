@@ -12,15 +12,13 @@ Netrix Vexta Pro v5 is a high-performance and beautifully designed auto-clicker 
 
 <div align="center">
 
-<img src=![loding](https://github.com/user-attachments/assets/e22dada8-66be-4fcc-896e-e87754b58d73) width="600" alt="Netrix Vexta GUI" style="border-radius: 12px; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
+<img src="https://github.com/user-attachments/assets/881e0d68-4aac-41f4-8e70-58ce64678b11" width="700" alt="Loading UI" style="border-radius: 16px; box-shadow: 0 0 25px rgba(0, 183, 255, 0.4); margin-bottom: 20px;" />
 
-<br><br>
+<br/>
 
-<img src="https://github.com/user-attachments/assets/7cb6bb6d-19ea-40b4-9405-a29fc6c2c0c2" width="600" alt="Netrix Vexta Features" style="border-radius: 12px; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
+<img src="https://github.com/user-attachments/assets/f91e7774-5b09-4c01-9bc9-c0a521652518" width="700" alt="GUI Preview" style="border-radius: 16px; box-shadow: 0 0 25px rgba(0, 255, 140, 0.4); margin-top: 20px;" />
 
 </div>
-
-
 
 ## 🚀 Setup Instructions
 
