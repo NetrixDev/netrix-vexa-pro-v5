@@ -205,7 +205,7 @@ netrix-vexta-pro-v5/
 <details>
 <summary><b>🎨 Customization Options</b></summary>
 
-- **CPS Range**: 1-100 clicks per second
+- **CPS Range**: 1-100+ clicks per second
 - **Hotkey Support**: Any keyboard key combination
 - **Auto-Save**: Settings persist between sessions
 - **Status Monitoring**: Real-time click status display
