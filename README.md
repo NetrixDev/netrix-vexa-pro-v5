@@ -10,7 +10,16 @@ Netrix Vexta Pro v5 is a high-performance and beautifully designed auto-clicker 
 - 🧠 Saves and loads settings automatically
 - 💻 Built with `customtkinter`, `pyautogui`, `keyboard`
 
-##![image](https://github.com/user-attachments/assets/7cb6bb6d-19ea-40b4-9405-a29fc6c2c0c2)
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/8351bfa9-e682-430a-87d9-8f5c8a5cea83" width="600" alt="Netrix Vexta GUI" style="border-radius: 12px; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/7cb6bb6d-19ea-40b4-9405-a29fc6c2c0c2" width="600" alt="Netrix Vexta Features" style="border-radius: 12px; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
+
+</div>
+
 
 
 ## 🚀 Setup Instructions
