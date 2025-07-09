@@ -29,13 +29,36 @@
 
 <div align="center" style="margin: 30px 0;">
 
-**🚀 Splash Screen Loading Animation**
-<br>
-<img src="https://github.com/user-attachments/assets/881e0d68-4aac-41f4-8e70-58ce64678b11" width="650" alt="Netrix Vexta Loading Animation" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 176, 255, 0.3); margin: 20px 0;" />
+<div style="margin-bottom: 60px;">
+<h3 style="font-size: 24px; font-weight: 800; margin-bottom: 20px; background: linear-gradient(135deg, #3b82f6 0%, #06b6d4 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🚀 Splash Screen Loading Animation</h3>
+<p style="color: #94a3b8; font-size: 14px; margin-bottom: 30px;">Experience the smooth startup sequence with our premium loading interface</p>
+<img src="https://github.com/user-attachments/assets/881e0d68-4aac-41f4-8e70-58ce64678b11" width="650" alt="Netrix Vexta Loading Animation" style="border-radius: 20px; box-shadow: 0 20px 60px rgba(59, 130, 246, 0.4), 0 0 80px rgba(0, 176, 255, 0.2); border: 1px solid rgba(0, 255, 255, 0.3); margin: 20px 0; transition: transform 0.3s ease;" />
 
-**🖥️ Main Interface - Dark Theme**
-<br>
-<img src="https://github.com/user-attachments/assets/f91e7774-5b09-4c01-9bc9-c0a521652518" width="650" alt="Netrix Vexta Main GUI" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 255, 153, 0.3); margin: 20px 0;" />
+<div style="margin-top: 20px;">
+<span style="background: rgba(30, 41, 59, 0.8); color: #3b82f6; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(59, 130, 246, 0.2);">Smooth Transitions</span>
+<span style="background: rgba(30, 41, 59, 0.8); color: #3b82f6; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(59, 130, 246, 0.2);">Progress Indicator</span>
+<span style="background: rgba(30, 41, 59, 0.8); color: #3b82f6; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(59, 130, 246, 0.2);">Modern Design</span>
+<span style="background: rgba(30, 41, 59, 0.8); color: #3b82f6; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(59, 130, 246, 0.2);">Fast Loading</span>
+</div>
+</div>
+
+<div style="width: 100%; height: 1px; background: linear-gradient(90deg, transparent, rgba(59, 130, 246, 0.3), rgba(6, 182, 212, 0.3), transparent); margin: 40px 0; position: relative;">
+<div style="position: absolute; top: -3px; left: 50%; transform: translateX(-50%); width: 6px; height: 6px; background: linear-gradient(45deg, #3b82f6, #06b6d4); border-radius: 50%;"></div>
+</div>
+
+<div style="margin-top: 60px;">
+<h3 style="font-size: 24px; font-weight: 800; margin-bottom: 20px; background: linear-gradient(135deg, #00ff88 0%, #00ff88 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🖥️ Main Interface - Dark Theme</h3>
+<p style="color: #94a3b8; font-size: 14px; margin-bottom: 30px;">Clean, intuitive interface with advanced customization options</p>
+<img src="https://github.com/user-attachments/assets/f91e7774-5b09-4c01-9bc9-c0a521652518" width="650" alt="Netrix Vexta Main GUI" style="border-radius: 20px; box-shadow: 0 20px 60px rgba(0, 255, 153, 0.4), 0 0 80px rgba(0, 255, 136, 0.2); border: 1px solid rgba(0, 255, 136, 0.3); margin: 20px 0; transition: transform 0.3s ease;" />
+
+<div style="margin-top: 20px;">
+<span style="background: rgba(30, 41, 59, 0.8); color: #00ff88; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(0, 255, 153, 0.2);">Dual Click Modes</span>
+<span style="background: rgba(30, 41, 59, 0.8); color: #00ff88; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(0, 255, 153, 0.2);">Hotkey Support</span>
+<span style="background: rgba(30, 41, 59, 0.8); color: #00ff88; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(0, 255, 153, 0.2);">Custom CPS</span>
+<span style="background: rgba(30, 41, 59, 0.8); color: #00ff88; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(0, 255, 153, 0.2);">Dark Theme</span>
+<span style="background: rgba(30, 41, 59, 0.8); color: #00ff88; padding: 6px 12px; border-radius: 15px; font-size: 12px; font-weight: 500; margin: 0 6px; border: 1px solid rgba(0, 255, 153, 0.2);">Real-time Status</span>
+</div>
+</div>
 
 </div>
 
