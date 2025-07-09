@@ -10,15 +10,17 @@ Netrix Vexta Pro v5 is a high-performance and beautifully designed auto-clicker 
 - 🧠 Saves and loads settings automatically
 - 💻 Built with `customtkinter`, `pyautogui`, `keyboard`
 
-<div align="center">
+<div align="center" style="margin-top: 40px;">
 
-<h3>🚀 Launch Animation</h3>
+<img src="https://github.com/user-attachments/assets/0a4d8f29-e37e-40d2-9db7-8d3c88b64f4a" width="80" style="margin-bottom: 0px;" />
 
-<img src="https://github.com/user-attachments/assets/881e0d68-4aac-41f4-8e70-58ce64678b11" width="700" alt="Netrix Vexta Loading" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0, 174, 255, 0.5); margin: 20px 0;" />
+<h2 style="font-size:28px; font-weight:800; margin-bottom: 10px;">🚀 Launch Animation</h2>
 
-<h3>🖥️ Main GUI Interface</h3>
+<img src="https://github.com/user-attachments/assets/881e0d68-4aac-41f4-8e70-58ce64678b11" width="720" alt="Netrix Vexta Loading" style="border-radius: 18px; box-shadow: 0 0 30px rgba(0, 176, 255, 0.45); border: 1px solid rgba(0, 255, 255, 0.2); margin-bottom: 50px;" />
 
-<img src="https://github.com/user-attachments/assets/f91e7774-5b09-4c01-9bc9-c0a521652518" width="700" alt="Netrix Vexta GUI" style="border-radius: 20px; box-shadow: 0 0 40px rgba(0, 255, 136, 0.4); margin: 20px 0;" />
+<h2 style="font-size:28px; font-weight:800; margin-bottom: 10px;">🖥️ Main GUI Interface</h2>
+
+<img src="https://github.com/user-attachments/assets/f91e7774-5b09-4c01-9bc9-c0a521652518" width="720" alt="Netrix Vexta GUI" style="border-radius: 18px; box-shadow: 0 0 30px rgba(0, 255, 153, 0.45); border: 1px solid rgba(0, 255, 136, 0.2);" />
 
 </div>
 
